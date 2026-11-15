@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/divarea_icon.png" alt="DIVAREA" width="128">
+</p>
+
 <h1 align="center">DIVAREA</h1>
 <p align="center"><strong>Divida terrenos em áreas iguais no AutoCAD.</strong></p>
 <p align="center">Prepare lotes, confira a prévia e acrescente números e áreas ao desenho.</p>
